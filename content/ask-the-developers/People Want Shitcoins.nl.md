@@ -22,6 +22,6 @@ Niemand probeert de database van elk bedrijf op aarde op eenzelfde SQL database 
 
 Nog belangrijk om te vermelden is dat de ontwikkeling van de “business logic language” goed verloopt.
 
-De programmeer taal waarin Ethereum’s slimme contracten zijn geschreven zien eruit alsof ze geschreven zijn door een kind. De stroom van nieuws berichten over de tientallen tot honderdtallen miljoen euro die elke week gestolen worden als gevolg van deze slechte programmeertaal zijn eindeloos.
+De programmeertaal waarin Ethereum’s slimme contracten zijn geschreven zien eruit alsof ze geschreven zijn door een kind. De stroom van nieuws berichten over de tientallen tot honderdtallen miljoen euro die elke week gestolen worden als gevolg van deze slechte programmeertaal zijn eindeloos.
 
 Wij geloven dat Skycoin het eerste professionele, bruikbare platform en taal kan aanbieden aan echte bedrijven. Het verschil al zijn alsof je na jaren Microsoft Paint te gebruiken plots overstapt naar Photoshop.
