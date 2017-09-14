@@ -16,7 +16,7 @@ Alles wat nieuw en innoverend is vergt onderzoek en kennis van de gebruikers. De
 
 Skycoin staat dus voor dezelfde uitdaging als Bitcoin en Ethereum in het begin voor stonden, waarbij de nieuwe gebruikers een enorme technische barriere moeten doorkruisen alvorens ze het gebruik van de munt en de technologie erachter begrijpen.
 
-Skycoin doet het goed op het meshnet en hardware en applicaties. Ondertussen vordert de ontwikkeling van het platform ook zeer goed. Bedrijven vertellen ons dikwijls :b ”Waarom Ethereum gebruiken en onze data op een blockchain zetten die gedeeld wordt met 500 000 shitcoins, als Skyledger ons bedrijf een EIGEN blockchain aanbied.” Het laatste geniet duidelijk de voorkeur.
+Skycoin doet het goed op het meshnet en hardware en applicaties. Ondertussen vordert de ontwikkeling van het platform ook zeer goed. Bedrijven vertellen ons dikwijls :b ”Waarom Ethereum gebruiken en onze data op een blockchain zetten die gedeeld wordt met 500.000 shitcoins, als Skyledger ons bedrijf een EIGEN blockchain aanbied.” Het laatste geniet duidelijk de voorkeur.
 
 Niemand probeert de database van elk bedrijf op aarde op eenzelfde SQL database te zetten, dus waarom zouden we dit wel doen met blockchains van bedrijven?
 
