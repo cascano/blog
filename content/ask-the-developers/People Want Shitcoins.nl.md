@@ -18,6 +18,6 @@ Desondanks het adoptieproces die Skycoin moet doorlopen is de ontwikkeling van d
 
 In feite is het ook een absurd idee om alle data op één enkele blockchain te zetten. Je zet toch niet de database van elk bedrijf op aarde op eenzelfde SQL database, dus waarom zou je dit dan wel doen met blockchains van bedrijven?
 
-Een laatste opmerking betreft de programmeertaal waarin Ethereum’s slimme contracten zijn geschreven. De code achter deze slimme contracten zien eruit alsof ze door een kind geschreven zijn. De stroom van nieuws berichten over de tientallen tot honderdtallen miljoenen die elke week gestolen worden als gevolg van deze slechte programmeertaal zijn dan ook eindeloos.
+Een laatste opmerking betreft de programmeertaal waarin Ethereum’s slimme contracten zijn geschreven. De code achter deze slimme contracten zien eruit alsof ze door een kind geschreven zijn. De stroom van nieuws berichten over de tientallen tot honderden miljoenen die elke week gestolen worden als gevolg van deze slechte programmeertaal zijn dan ook eindeloos.
 
 Wij geloven dat Skycoin het eerste professionele, bruikbare platform voor bedrijven kan aanbieden. Skycoin gebruiken zal zijn alsof je na jaren Microsoft Paint te gebruiken plots overstapt naar Photoshop.
