@@ -1,12 +1,12 @@
 +++ titel = "Mensen Willen Shitcoins" tags = [ "Ask the Developers", ] date = "2017-09-05" categories = [ "Ask the Developers", ] +++
 
-Quote van de Telegram chat :
+Quote uit het Skycoin Telegram Kanaal:
 
-Vraag : Als skycoin zo goed is als beweerd wordt verkies ik deze zeker voor mijn bedrijf boven de alternatieve munten, maar waar kan ik bewijzen vinden dat Skycoin effectief zo goed is? Waar vind ik de testen? Bestaat er een website die meer informatie en data bevat? Beheert Skycoin al een sterk netwerk opgebouwd uit voldoende nodes?
+Iemand stelde de vraag : Als skycoin zo goed is als beweerd wordt verkies ik deze zeker voor mijn bedrijf boven de alternatieve munten, maar waar kan ik de bewijzen vinden dat Skycoin effectief zo goed is?  Bestaat er een website die meer informatie en data bevat? Beheert Skycoin al een sterk netwerk opgebouwd uit voldoende nodes, m.a.w. is het Skycoin netwerk te vertrouwen?
 
-De eerste gebruikers van Bitcoin stonden in het begin voor een enorme leercurve en technische barriere vooraleer Bitcoin grootschalig begrepen en geadopteerd werd. Skycoin staat momenteel aan dezelfde barrieres waar Bitcoin in het begin ook stond.
+De eerste gebruikers van Bitcoin stonden in het begin voor een enorme leercurve en technische barriere vooraleer Bitcoin grootschalig begrepen en geadopteerd werd. Skycoin staat momenteel voor dezelfde barrieres als Bitcoin in het begin ook stond.
 
-Skycoin is geen coin geschreven volgens hetzelfde protocol als de 500 ERC20 tokens die vandaag bestaan, maar bevat een eigen code database, blockchain en team van programmeurs. Voor de doorsnee investeerder is het te veel werk om de technologie achter een digitale munt met eigen blockchain te onderzoeken en te begrijpen, de instapbarriere is bijgevolg hoog. De investeerders verkiezen liever munten met een lagere instapbarriere, de shitcoins. Deze shitcoins zijn meestal Bitcoin klonen of één van de vele ERC20 munten die geen innovatie aanbieden en vereisen geen technische voorkennis van de gebruiker. 
+Skycoin bevat een eigen code database, blockchain en team van programmeurs. Voor de doorsnee investeerder is het te veel werk om de technologie achter een digitale munt met eigen blockchain te onderzoeken en te begrijpen, de instapbarriere is bijgevolg hoog. De investeerders verkiezen liever munten met een lagere instapbarriere, de shitcoins. Deze shitcoins zijn meestal Bitcoin klonen of één van de vele ERC20 munten die geen innovatie aanbieden, en vereisen geen technische voorkennis van de gebruiker. 
 
 Investeerders kopen de shitcoins, wachten op de "pump", verkopen aan de piek en verdienen hiermee snel en makkelijk geld. Beurzen voegen dus liever een nieuwe shitcoins toe die hun veel geld opbrengt voor weinig werk, dan hun tijd te investeren in een nieuwe innoverende munt. 
 
