@@ -1,18 +1,18 @@
-+++ titel = "Skycoin Premie Programma 1" tags = [ "Bounty Program", ] date = "2017-08-27" categories = [ "Statement", ] +++
++++ titel = "Skycoin Beloningsprogramma 1" tags = [ "Bounty Program", ] date = "2017-08-27" categories = [ "Statement", ] +++
 
 Update  29 Augustus, 2017. Premies voor vertalingen toegevoegd.
 
-Update 29 Augustus, 2017. Reddit activiteit wordt nu ook beloond met een bonus. GIF premie verhoogd naar 20. 
+Update 29 Augustus, 2017. Reddit activiteit wordt nu ook beloond met een bonus. GIF premie verhoogd naar 20 SKY. 
 
 Update 30 Augustus, 2017. Verwijderen GIF premies.
 
-Update 3 September, 2017. Frans is toegevoegd aan de vertaling premies.
+Update 3 September, 2017. Frans is toegevoegd aan het beloningsprogramma.
 
-Update 12 September, 2017. Premie voor het maken van infographics is verhoogd naar 30.
+Update 12 September, 2017. Premie voor het maken van infographics is verhoogd naar 30 SKY.
 
-Aanmelden voor het Skycoin Premie Programma kan via volgende link :  Skycoin Premie Programma Telegram Kanaal.
+Aanmelden voor het Skycoin Beloningsprogramma kan via de volgende link :  Skycoin Beloningsprogramma Telegram Kanaal.
 
-Premie Categoriën
+Categoriën waarin beloningen worden uitgescrheven:
 
 •	Grafisch
 
@@ -22,13 +22,13 @@ Premie Categoriën
 
 •	Schrijven
 
-•	Sociale Media Engagement
+•	Sociale Media
 
 Grafisch
 
 Infographics (informatieve illustraties) over Skycoin, Skywire meshnet, BBS, CXO etc.
 
-Verwerk de kenmerken van Skycoin in de infographic, dit betreft de juiste logos en kleuren gebruiken bij het maken van de infographics. Deze zijn te vinden op de download pagina.
+De kenmerken van Skycoin dienen verwerkt te worden in de infographic, dit betreft de juiste logos en kleuren gebruiken bij het maken van de infographics. Deze zijn te vinden op de download pagina.
 
 •	Beloning : 30 SKY per infographic
 
@@ -36,10 +36,9 @@ Video
 
 Youtube Videos (bvb. vlog filmpjes) over Skycoin in het algemeen.
 
-
 •	Beloning : 1SKY per 1000 views
 
-•	De videos dienen gepubliceerd te worden via een relevant Youtube kanaal, dit wil zeggen via een kanaal die zich bezig houdt met digitale munten. 
+•	De videos dienen gepubliceerd te worden via een relevant Youtube kanaal, dit wil zeggen via een kanaal dat zich bezighoudt met digitale munten. 
 
 •	Enkel videos met een originele inhoud worden beloond. 
 
@@ -47,15 +46,15 @@ Promotionele videos (bvb. Een video waarin de technologie achter skycoin wordt u
 
 •	Beloning : 150 SKY
 
-•	De premie kan ook opgehaald worden door de video op jouw eigen Youtube kanaal toe te voegen.
+•	De premie kan ook opgehaald worden door de video aan uw eigen Youtube kanaal toe te voegen.
 
 •	Skycoin mag gebruik maken van deze promotionele videos op hun eigen Youtube kanaal of op de Skycoin website.
 
 Vertalingen
 
-Je verdient SKY door posts te vertalen van de Skycoin blog.
+U verdient SKY door posts te vertalen van de Skycoin blog.
 
-Aanvaarde talen zijn:
+De aanvaarde talen zijn:
 
 •	Deutsche
 
@@ -69,11 +68,13 @@ Aanvaarde talen zijn:
 
 •	Français
 
-Opmerking: De 中文 en Рyсский vertalingen zijn momentele in behandeling door andere gebruikers.
+•	Nederlands (het maximum budget voor nederlandse vertalingen werd vooropgesteld op 30 SKY per artikel)
 
-In de toekomst kunnen er extra talen bijkomen aan het premie programma. Indien u een vertaling maakt dient deze geverifieerd te worden door andere gebruikers die de vertaling controleren op fouten. Als jouw taal nog niet bij het premie programma staat neem dan contact op met de programmeurs op Skycoin Premie Programma Telegram Kanaal.
+Opmerking: De 中文 en Рyсский vertalingen zijn momenteel in behandeling door andere gebruikers.
 
-Per 500 woorden wordt je 5 SKY beloond. Bijvoorbeeld:
+In de toekomst kunnen extra talen worden toegevoegd aan het beloningsprogramma. Indien u een vertaling maakt, dient deze gecontroleerd te worden op fouten door ten minste twee leden van de skycoin gemeenschap die deze taal als moedertaal hebben.  Slechte vertalingen krijgen geen beloning, niettemin mogen deze vertaling blijven aangepast worden tot deze correct is.
+
+Per 500 woorden wordt er 5 SKY uitbetaald. Bijvoorbeeld:
 
 •	1-500 woorden: 5 SKY
 
@@ -81,27 +82,25 @@ Per 500 woorden wordt je 5 SKY beloond. Bijvoorbeeld:
 
 •	1001-1500 woorden: 15 SKY
 
-•	...en zo voort...
+•	...enzovoort...
 
-Onderaan elke Engelstalig blog post wordt de belonging voor het vertalen van dat artikel naar een andere taal weergegeven. Let wel, enkel vertalingen van artikels die nog niet vertaald zijn worden beloond.
+Onderaan de Engelstalig blog posts wordt de beloning voor het vertalen van dat betreffende artikel vermeld. Let wel, enkel nieuwe vertalingen worden beloond.
 
-Indien een post reeds vertaald is maar je vindt een fout, of voert een verbetering uit aan de tekst dan kan je ook een kleine vergoeding krijgen voor je werk.
-
-Eenmaal de vertaling af is dient deze kwalitatief gecontroleerd te worden door één of twee mensen die deze taal als moedertaal hebben. Slechte vertalingen krijgen geen beloning, niettemin mag je de vertaling blijven aanpassen tot deze aanvaard wordt.
+Indien een post reeds vertaald is maar u vindt een fout, of voert een verbetering uit aan de tekst, dan kan u ook een kleine vergoeding aanvragen.
 
 Schrijven
 
 Het schrijven van blog posts en artikels wordt beloond.
 
-•	De belonging hangt af van het aantal views, de kwaliteit van het artikel en het kanaal waarop de post of artikel wordt gepubliceerd, etc.
+•	De beloning hangt af van het aantal views, de kwaliteit van het artikel en het kanaal waarop de post of artikel wordt gepubliceerd, etc.
 
-•	Indien je een artikel of blog post wil schrijven dient u op voorhand contact op te nemen met het team. Het team zal dan evalueren hoe ze de inhoud van het artikel of de blog post kunnen controleren.
+•	Indien u een artikel of blog post wil schrijven dient u op voorhand contact op te nemen met het team. Het team zal dan evalueren hoe ze de inhoud van het artikel of de blog post kunnen controleren.
 
 Indien u iets heeft gemaakt (artikel, blog post, infographic, youtube video) en later blijkt dat u niet oprecht handelde (bvb views aankopen op youtube, slecht gemaakte infographics) kan een deel van de beloning of de volledige beloning worden teruggevorderd.
 
-Sociale Media Engagement
+Sociale Media
 
-Speciale belonging voor actieve reddit gebruikers:
+Speciale beloningen worden uitgeschreven aan actieve reddit gebruikers:
 
 •	10 SKY - 100 Skycoin subreddit posts
 
@@ -109,6 +108,6 @@ Speciale belonging voor actieve reddit gebruikers:
 
 •	1000 SKY - 2500 Skycoin subreddit posts
 
-Indien je andere promotie ideëen hebt om Skycoin in de kijker te zetten die een premie verdienen mag u ze vermelden via het Telegram kanaal. Het team kijkt dan welke ideëen haalbaar zijn en in aanmerking komen voor het premie programma.
+Indien u andere promotie ideëen heeft om Skycoin in de kijker te zetten, mag u ze het team contacteren via het Telegram kanaal. Het team kijkt dan na welke ideëen haalbaar zijn en in aanmerking komen voor het beloningsprogramma.
 
-Skycoin Premie Programma Telegram Kanaal
+Skycoin Beloningsprogramma Telegram Kanaal
